@@ -6,7 +6,7 @@ package ClasesPrincipales;
 
 /**
  *
- * @author Moises Liota
+ * @author David
  */
 public class Persona {
     private String nombre;

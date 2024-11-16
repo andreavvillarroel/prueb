@@ -9,7 +9,7 @@ import EDD.HashTable;
 
 /**
  *
- * @author Moises Liota
+ * @author David
  */
 public class ArbolGenealogico {
     private HashTable hashTable;
